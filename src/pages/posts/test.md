@@ -10,10 +10,6 @@ halfTheMeaning: 21
 heroImage:
   src: "/assets/blog/learning-astro.jpg"
   alt: "Astronaut floating in space with a glowing keyboard"
-setup: |
-  import LikeButton from "../../components/LikeButton"
-  import FollowMe from "../../components/FollowMe.astro"
-  const { followMe, halfTheMeaning, url } = Astro.props;
 ---
 
 # Welcome to Astro Blog Post!

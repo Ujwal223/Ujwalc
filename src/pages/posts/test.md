@@ -1,7 +1,7 @@
 ---
 layout: "../../layouts/BlogPost.astro"
-title: "Hello galaxy of possibilities!"
-description: "Take your blog to astronomical heights"
+title: "Hel of possibilities!"
+description: "Tas"
 publishDate: "12 Sep 2021"
 followMe:
   username: "bholmesdev"
